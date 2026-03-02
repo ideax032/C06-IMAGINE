@@ -20,7 +20,10 @@ Inside every task folder, you will find:
   - Required reading topics  
   - Expected conceptual outcomes  
 
-First fork the repository and after completing a task, you must create:
+**IMPORTANT** First fork the repository by clicking on the **Fork** button visible in the top right of the repository window.
+*Please push only into your perosnal repository that you get after forking and do not this repository*
+
+Also, after completing a task, you must create:
 
 - `explanation.md` inside that same task folder.
 
