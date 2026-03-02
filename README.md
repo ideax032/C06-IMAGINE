@@ -21,7 +21,7 @@ Inside every task folder, you will find:
   - Expected conceptual outcomes  
 
 **IMPORTANT** First fork the repository by clicking on the **Fork** button visible in the top right of the repository window.
-*Please push only into your perosnal repository that you get after forking and do not this repository*
+*Please push only into your personal repository that you get after forking and do not push this repository*
 
 Also, after completing a task, you must create:
 
