@@ -16,6 +16,7 @@
 
 
 ### Additional Instructions  
+- Ignore the temp.md file.
 - You can either download the repository and copy-paste the Task2 folder or use Git to fetch and pull only Task2 while preserving the Task1 content of your submission.  
 - The datasets can be found within the subtasks itself
 - You are allowed to use AI tools for writing code , but make sure to understand what you are doing
