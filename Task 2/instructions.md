@@ -1,8 +1,9 @@
 ### 2.a Linear Regression  
-- Follow the instructions in the [notebook](a\linear-regression.ipynb) and implement Linear Regression.  
+- Follow the instructions in the [notebook](https://github.com/Aj-Shaer07/C06-IMAGINE/blob/main/Task%202/a/linear-regression.ipynb) and implement Linear Regression.  
 
 ### 2.b Logistic Regression  
-- Follow the instructions in the notebook and implement Logistic Regression.  
+
+- Follow the instructions in the [notebook](https://github.com/Aj-Shaer07/C06-IMAGINE/blob/main/Task%202/b/logistic-regression.ipynb) and implement Logistic Regression.  
 
 ### 2.c Wine Dataset  
 - The Wine Dataset is located in the C directory. Use it accordingly in the notebook.  
@@ -17,7 +18,8 @@
 ### Additional Instructions  
 - You can either download the repository and copy-paste the Task2 folder or use Git to fetch and pull only Task2 while preserving the Task1 content of your submission.  
 - The datasets can be found within the subtasks itself
-- You are allowed as well as recommended to use AI tools for writing code. You can use GPT, Claude, Blackbox, or any other model of your choice.  
-- Make sure to understand what the code does and explore alternate approaches that could have been taken.
+- You are allowed to use AI tools for writing code , but make sure to understand what you are doing
+- Dont Copy paste directly. I will catch you 👀 .
+- Make sure to understand what the code does and explore alternate approaches that could have been taken. (VERY IMPORTANT)
 - Keep your notebook clean and structured by using markdown sections
 - you have to give small write up in the [readme](README.md)
